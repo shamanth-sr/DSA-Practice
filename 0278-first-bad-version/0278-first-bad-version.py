@@ -6,11 +6,11 @@ class Solution:
         left = 1
         right = n
 
-        while left < right:
-            mid = (left + right) // 2
+        while left <= right:
+            mid = left + (right - left) // 2
 
             if isBadVersion(mid):
-                right = mid
+                right = mid - 1
 
             else:
                 left = mid + 1
