@@ -5,6 +5,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/shamanth-sr/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Interactive
@@ -14,5 +15,6 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
