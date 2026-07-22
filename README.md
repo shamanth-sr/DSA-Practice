@@ -19,6 +19,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0004-median-of-two-sorted-arrays](https://github.com/shamanth-sr/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/shamanth-sr/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/shamanth-sr/DSA-Practice/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
