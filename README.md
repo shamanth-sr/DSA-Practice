@@ -25,6 +25,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamanth-sr/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/shamanth-sr/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Tree
 |  |
@@ -41,6 +42,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shamanth-sr/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/shamanth-sr/DSA-Practice/tree/master/1046-last-stone-weight) |
@@ -60,4 +62,12 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shamanth-sr/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/shamanth-sr/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
