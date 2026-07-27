@@ -24,6 +24,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/shamanth-sr/DSA-Practice/tree/master/1046-last-stone-weight) |
+| [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +84,16 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
