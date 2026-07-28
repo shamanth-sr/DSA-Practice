@@ -79,6 +79,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -96,4 +97,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
