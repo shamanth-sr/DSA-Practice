@@ -78,6 +78,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -100,5 +101,10 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
