@@ -89,10 +89,12 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -102,6 +104,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
 |  |
