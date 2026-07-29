@@ -104,6 +104,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/shamanth-sr/DSA-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 ## Dynamic Programming
