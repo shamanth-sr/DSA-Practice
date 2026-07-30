@@ -109,6 +109,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0686-repeated-string-match](https://github.com/shamanth-sr/DSA-Practice/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,4 +118,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/shamanth-sr/DSA-Practice/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
