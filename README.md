@@ -35,6 +35,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -54,6 +55,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -122,4 +124,12 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/shamanth-sr/DSA-Practice/tree/master/0686-repeated-string-match) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
