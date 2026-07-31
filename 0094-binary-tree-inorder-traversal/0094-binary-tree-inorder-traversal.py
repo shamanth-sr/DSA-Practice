@@ -10,11 +10,19 @@ class Solution:
         result = []
         stack = []
 
-        while root or stack:
-            while root:
-                stack.append(root)
-                root = root.left
-            root = stack.pop()
-            result.append(root.val)
-            root = root.right
+        node = root
+        
+        while True:
+            if node is not None:
+                stack.append(node)
+                node = node.left
+
+            else:
+                if not stack:
+                    break
+                else:
+                    node = stack.pop()
+                    result.append(node.val)
+                    node = node.right
+
         return result
