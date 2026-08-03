@@ -102,6 +102,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/shamanth-sr/DSA-Practice/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -139,4 +140,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shamanth-sr/DSA-Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
