@@ -37,6 +37,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -58,6 +59,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -140,8 +142,13 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shamanth-sr/DSA-Practice/tree/master/0050-powx-n) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
