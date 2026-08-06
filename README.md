@@ -40,6 +40,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -63,6 +64,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -73,6 +75,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shamanth-sr/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Quickselect
 |  |
 | ------- |
@@ -101,6 +104,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0013-roman-to-integer](https://github.com/shamanth-sr/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/shamanth-sr/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -145,6 +149,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0094-binary-tree-inorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -154,4 +159,5 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
