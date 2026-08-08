@@ -7,6 +7,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamanth-sr/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/shamanth-sr/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -20,6 +21,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0004-median-of-two-sorted-arrays](https://github.com/shamanth-sr/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +119,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
