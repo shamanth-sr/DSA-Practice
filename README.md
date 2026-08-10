@@ -42,6 +42,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0104-maximum-depth-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -68,6 +69,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0104-maximum-depth-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/shamanth-sr/DSA-Practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -157,6 +159,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0104-maximum-depth-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shamanth-sr/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
@@ -171,4 +174,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0199-binary-tree-right-side-view](https://github.com/shamanth-sr/DSA-Practice/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
