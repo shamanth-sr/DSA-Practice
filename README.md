@@ -22,6 +22,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0014-longest-common-prefix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/shamanth-sr/DSA-Practice/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -106,6 +107,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shamanth-sr/DSA-Practice/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
@@ -178,4 +180,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shamanth-sr/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shamanth-sr/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
