@@ -11,6 +11,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0278-first-bad-version](https://github.com/shamanth-sr/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/shamanth-sr/DSA-Practice/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
@@ -27,6 +28,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 | [0215-kth-largest-element-in-an-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/shamanth-sr/DSA-Practice/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/shamanth-sr/DSA-Practice/tree/master/1046-last-stone-weight) |
 | [2965-find-missing-and-repeated-values](https://github.com/shamanth-sr/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
