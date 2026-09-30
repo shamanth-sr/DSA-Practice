@@ -21,6 +21,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shamanth-sr/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shamanth-sr/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/shamanth-sr/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -105,6 +106,7 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shamanth-sr/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shamanth-sr/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/shamanth-sr/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/shamanth-sr/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/shamanth-sr/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -194,4 +196,8 @@ During the preparation for interviews and for daily DSA problem solving.....
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shamanth-sr/DSA-Practice/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shamanth-sr/DSA-Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
